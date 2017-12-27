@@ -2,7 +2,7 @@
 
 This a multi-threaded app which runs form the console.  It utilizes the executable JAR created by Maven (IanDBSearchUtility.jar).
 
-Note: the database table used is ija_tp.JsonData (set up in the Ian_JSONToRDBMS repository) and is setup as: ija_tp.JsonData with colums:
+Note: the database table used is ija_tp.JsonData (set up in the Ian_JSONToRDBMS repository) and is setup as: ija_tp.JsonData with columns:
 (name VARCHAR(10500),description VARCHAR(10500),category VARCHAR(300), offers_total INT)
 
 Caching is done via the Apache Direct Memory library (which was retired but still available at time this application was written; referebced in pom.xml).
