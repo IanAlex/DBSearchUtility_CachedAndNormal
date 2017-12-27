@@ -1,4 +1,4 @@
-# DBSearchUtility_CachedAndNormalIanDBSearchUtility
+# DBSearchUtility_CachedAndNormal
 
 This a multi-threaded app which runs form the console.  It utilizes the executable JAR created by Maven (IanDBSearchUtility.jar).
 
